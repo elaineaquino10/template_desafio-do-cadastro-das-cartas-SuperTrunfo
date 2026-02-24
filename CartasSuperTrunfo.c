@@ -16,6 +16,7 @@ int main() {
   float PIB1;
   int Número_de_pontos_turísticos1;
 
+  
   // Variáveis Carta 2
 
   char Estado2;
